@@ -1,4 +1,4 @@
-# Overview
+# DRAT: Dual-grained Regressive Re-ranking via Dynamic Action Transfer[AAAI 2025]
 Our work is based on LibRerank, which is a toolkit for re-ranking algorithms. There are a number of re-ranking algorithms, such as PRM, DLCM, GSF, miDNN, SetRank, EGRerank, Seq2Slate, PIER, etc. It also supports LambdaMART and DNN as initial ranker. After we reproduce the results about the LibRerank, we devise our method DRAT.
 
 ## Get Started
